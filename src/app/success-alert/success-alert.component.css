@@ -1,0 +1,8 @@
+.success{
+  /*makes the corners rounded*/
+  border-radius: 10px;
+  /*select the text color*/
+  background-color: rgb(14, 255, 54);
+  /*aligns the text*/
+  text-align: center;
+}
